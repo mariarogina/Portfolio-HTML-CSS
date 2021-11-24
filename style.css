@@ -152,6 +152,7 @@ a {
     background-color: var(--clr-light);
     padding:10px;
     padding-top:0px;
+    text-align: center;
 }
 
 .abt_me {
@@ -161,6 +162,11 @@ a {
     font-size: large;
     font-weight: bold;
     margin-bottom: 0px;
+}
+
+.info {
+    max-width:600px;
+    margin:auto
 }
 
 .skill {
@@ -189,6 +195,8 @@ a {
     transition: transform 300ms;
 
 }
+
+
 
 .project {
     background-color: var(--clr-light);
