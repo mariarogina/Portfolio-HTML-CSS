@@ -196,6 +196,7 @@ a {
     background-size: 100% 100%;
     text-align: center;
     font-size: large;
+    padding-bottom:40px
     
 }
 .project h3{
@@ -389,7 +390,8 @@ header {
     flex-wrap: wrap;
     justify-content: space-evenly;
     background-color: var(--clr-back);
-    margin:3em
+    margin:3em;
+    margin-bottom:0px
 }
 
 .prj_img {
